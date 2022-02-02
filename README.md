@@ -1,6 +1,7 @@
 # DSA-Self-Paced-Course
 
 - [Mathematics](/Mathematics)
+- [Bit Magic](/BIT%20MAGIC)
 - [Recursion](/Recursion)
 - [Array](/ARRAY)
 
