@@ -6,7 +6,7 @@ void powerSet(string str){
     int n = 1<<str.length();
     for(int i=0; i<n; i++){
         for(int j=0; j<str.length(); j++){
-            if(i&j)
+            if(i&(1<<j))
             cout<<str[j];
         }
         cout<<endl;
