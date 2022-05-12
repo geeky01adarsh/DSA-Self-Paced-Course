@@ -27,7 +27,6 @@ int main()
     for (int i = 0; i < n; i++)
         cin >> arr[i];
     countSort(arr, n, k);
-    // cout << "Hello";
     for (int j = 0; j < n; j++)
         cout << arr[j] << " ";
 }
